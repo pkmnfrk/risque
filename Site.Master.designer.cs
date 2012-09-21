@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1 {
+namespace Risque {
 
 
 	public partial class SiteMaster {

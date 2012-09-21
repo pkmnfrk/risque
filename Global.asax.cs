@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace WebApplication1 {
+namespace Risque {
 	public class Global : System.Web.HttpApplication {
 
 		void Application_Start(object sender, EventArgs e) {
